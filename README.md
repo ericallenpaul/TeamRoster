@@ -1,4 +1,4 @@
-# TeamRoster
+# TeamRoster w/ SqlLite and Entity Framework
 A .Net core console app using SQLLite and the EntityFramewrokCore
 
 We started this project by creating a .Net core cosole app named TeamRoster.App 
@@ -33,7 +33,7 @@ You can also right click on the project and add nuget packages via the GUI.
 
 Add Your Models (Class files)
 One of the best places to start designing an application that uses a database is your models (or classes). 
-It’s a simple task that in the long term can be challenging to master. 
+Itâ€™s a simple task that in the long term can be challenging to master. 
 At the simplest level think about how to describe the data you need to collect as nouns. 
 In this application, which is designed to keep track of a team roster we have nouns like:
 
